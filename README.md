@@ -1,6 +1,5 @@
-<h2>Authors: Amrutha Varshini Mandalreddy, Sri Rachana Achyuthuni 
-Course: CSCI.631
-</h2>
+<h1> Object Detection and Evaluation using YOLO5 </h1>
+<h2>Authors: Amrutha Varshini Mandalreddy, Sri Rachana Achyuthuni Course: CSCI.631 </h2>
 
 <b>How To Run: </b>
 You would have to clone the YOLO repository:
